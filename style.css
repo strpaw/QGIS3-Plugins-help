@@ -1,0 +1,26 @@
+#help-menu {
+  float: left;
+  padding-left: 10px;
+}
+
+#help-content {
+  float: left;
+  padding-left: 10px;
+}
+
+.help-menu-items {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+
+.sample-data, .log-example {
+  padding: 5px;
+  background-color: white;
+  font-family: "Courier new";
+}
+
+
+.plugin-help-title {
+  display: inline-block;
+}
