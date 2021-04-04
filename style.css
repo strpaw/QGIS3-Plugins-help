@@ -1,16 +1,23 @@
+body  {
+  background-color: #e6e6e6;
+}
+
 #help-menu {
   float: left;
   padding-left: 10px;
+  padding-right: 10px;
 }
 
 #help-content {
   float: left;
   padding-left: 10px;
+  background-color: white;
 }
 
 .help-menu-items {
   list-style-type: none;
   padding-left: 10px;
+
 }
 
 
