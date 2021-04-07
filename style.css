@@ -11,6 +11,7 @@ body  {
 #help-content {
   float: left;
   padding-left: 10px;
+  padding-right: 10px;
   background-color: white;
 }
 
@@ -30,4 +31,18 @@ body  {
 
 .plugin-help-title {
   display: inline-block;
+}
+
+
+.img_usage_steps {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.img_desc_example {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
